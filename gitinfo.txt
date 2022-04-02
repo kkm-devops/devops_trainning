@@ -1,0 +1,4 @@
+this is contains the information about git 
+latest git is installed in my system.
+we have already created local repo.
+Local repo is mapped with remote repo.
